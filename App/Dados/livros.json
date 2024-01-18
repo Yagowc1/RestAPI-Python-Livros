@@ -1,0 +1,53 @@
+{
+  "livros": [
+    {
+      "titulo": "Apanhador no Campo de Centeio",
+      "autor": "J.D. Salinger",
+      "ano_publicacao": 1951,
+      "genero": "Romance",
+      "editora": "Little, Brown and Company"
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "ano_publicacao": 1949,
+      "genero": "Ficção Distópica",
+      "editora": "Secker & Warburg"
+    },
+    {
+      "titulo": "Cem Anos de Solidão",
+      "autor": "Gabriel García Márquez",
+      "ano_publicacao": 1967,
+      "genero": "Realismo Mágico",
+      "editora": "Harper & Row"
+    },
+    {
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "ano_publicacao": 1954,
+      "genero": "Fantasia Épica",
+      "editora": "Allen & Unwin"
+    },
+    {
+      "titulo": "O Código Da Vinci",
+      "autor": "Dan Brown",
+      "ano_publicacao": 2003,
+      "genero": "Mistério, Suspense",
+      "editora": "Editora Sextante"
+    },
+    {
+      "titulo": "O Pequeno Príncipe",
+      "autor": "Antoine de Saint-Exupéry",
+      "ano_publicacao": 1943,
+      "genero": "Fábula, Infantojuvenil",
+      "editora": "Gallimard"
+    },
+    {
+      "titulo": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+      "autor": "C.S. Lewis",
+      "ano_publicacao": 1950,
+      "genero": "Fantasia",
+      "editora": "Geoffrey Bles"
+    }
+  ]
+}
