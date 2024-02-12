@@ -1,0 +1,40 @@
+:root {
+    --turquesa-claro: #7FFFD4;
+    --turquesa-medio: #40E0D0;
+    --turquesa-escuro: #00CED1;
+    --verde-agua: #20B2AA;
+    --azul-petroleo: #008080;
+}
+
+body {
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: var(--turquesa-claro);
+}
+
+#BotaoRecomendar {
+    cursor: pointer;
+
+    background-color: var(--turquesa-medio);
+    padding: 3vh 6vh;
+    border: none;
+    border-radius: 10px;
+
+    text-transform: uppercase;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.container {
+    text-align: center;
+}
+
+#livros {
+    margin-top: 20px;
+    text-align: left;
+}

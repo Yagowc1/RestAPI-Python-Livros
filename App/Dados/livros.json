@@ -1,6 +1,7 @@
 {
   "livros": [
     {
+      "id": 1,
       "titulo": "Apanhador no Campo de Centeio",
       "autor": "J.D. Salinger",
       "ano_publicacao": 1951,
@@ -8,6 +9,7 @@
       "editora": "Little, Brown and Company"
     },
     {
+      "id": 2,
       "titulo": "1984",
       "autor": "George Orwell",
       "ano_publicacao": 1949,
@@ -15,6 +17,7 @@
       "editora": "Secker & Warburg"
     },
     {
+      "id": 3,
       "titulo": "Cem Anos de Solidão",
       "autor": "Gabriel García Márquez",
       "ano_publicacao": 1967,
@@ -22,6 +25,7 @@
       "editora": "Harper & Row"
     },
     {
+      "id": 4,
       "titulo": "O Senhor dos Anéis",
       "autor": "J.R.R. Tolkien",
       "ano_publicacao": 1954,
@@ -29,6 +33,7 @@
       "editora": "Allen & Unwin"
     },
     {
+      "id": 5,
       "titulo": "O Código Da Vinci",
       "autor": "Dan Brown",
       "ano_publicacao": 2003,
@@ -36,6 +41,7 @@
       "editora": "Editora Sextante"
     },
     {
+      "id": 6,
       "titulo": "O Pequeno Príncipe",
       "autor": "Antoine de Saint-Exupéry",
       "ano_publicacao": 1943,
@@ -43,11 +49,108 @@
       "editora": "Gallimard"
     },
     {
+      "id": 7,
       "titulo": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
       "autor": "C.S. Lewis",
       "ano_publicacao": 1950,
       "genero": "Fantasia",
       "editora": "Geoffrey Bles"
+    },
+    {
+      "id": 8,
+      "titulo": "O Guia do Mochileiro das Galáxias",
+      "autor": "Douglas Adams",
+      "ano_publicacao": 1979,
+      "genero": "Ficção Científica, Comédia",
+      "editora": "Pan Books"
+    },
+    {
+      "id": 9,
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "ano_publicacao": 1813,
+      "genero": "Romance",
+      "editora": "T. Egerton, Whitehall"
+    },
+    {
+      "id": 10,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "ano_publicacao": 1605,
+      "genero": "Romance de Cavalaria, Paródia",
+      "editora": "Francisco de Robles"
+    },
+    {
+      "id": 11,
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K. Rowling",
+      "ano_publicacao": 1997,
+      "genero": "Fantasia",
+      "editora": "Bloomsbury"
+    },
+    {
+      "id": 12,
+      "titulo": "O Alquimista",
+      "autor": "Paulo Coelho",
+      "ano_publicacao": 1988,
+      "genero": "Ficção Espiritual",
+      "editora": "Editora Rocco"
+    },
+    {
+      "id": 13,
+      "titulo": "Sherlock Holmes: Um Estudo em Vermelho",
+      "autor": "Arthur Conan Doyle",
+      "ano_publicacao": 1887,
+      "genero": "Mistério, Detetive",
+      "editora": "Ward, Lock & Co."
+    },
+    {
+      "id": 14,
+      "titulo": "Crime e Castigo",
+      "autor": "Fiódor Dostoiévski",
+      "ano_publicacao": 1866,
+      "genero": "Romance Psicológico",
+      "editora": "Editora Otkrytiye"
+    },
+    {
+      "id": 15,
+      "titulo": "O Retrato de Dorian Gray",
+      "autor": "Oscar Wilde",
+      "ano_publicacao": 1890,
+      "genero": "Ficção Gótica",
+      "editora": "Ward, Lock & Co."
+    },
+    {
+      "id": 16,
+      "titulo": "Moby Dick",
+      "autor": "Herman Melville",
+      "ano_publicacao": 1851,
+      "genero": "Aventura, Romance",
+      "editora": "Richard Bentley"
+    },
+    {
+      "id": 17,
+      "titulo": "Sherlock Holmes: Um Estudo em Vermelho",
+      "autor": "Arthur Conan Doyle",
+      "ano_publicacao": 1887,
+      "genero": "Mistério, Detetive",
+      "editora": "Ward, Lock & Co."
+    },
+    {
+      "id": 18,
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "ano_publicacao": 1899,
+      "genero": "Romance",
+      "editora": "Editora Garnier"
+    },
+    {
+      "id": 19,
+      "titulo": "A Metamorfose",
+      "autor": "Franz Kafka",
+      "ano_publicacao": 1915,
+      "genero": "Ficção Absurda",
+      "editora": "Kurt Wolff Verlag"
     }
   ]
 }
