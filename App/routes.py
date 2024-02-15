@@ -7,6 +7,6 @@ def lading_page():
 
 @app.route('/dados')
 def obter_dados():
-    with open('App/Dados/livros.json', 'r') as arquivo_json:
+    with open('App/Dados/livros.json', 'r', encoding='utf-8') as arquivo_json:
         dados = json.load(arquivo_json)
     return jsonify(dados)
